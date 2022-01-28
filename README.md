@@ -1,5 +1,5 @@
 
-# kacperekDEV.xyz TestPortal Plugin
+# kvcper.xyz TestPortal Plugin
 
 Minimalistyczne rozszerzenie do Chrome - obejście do sprawdzania rozmycia na testportal.pl (sieć).
 
@@ -23,4 +23,4 @@ Dołącz do naszego Discorda! https://discord.gg/vtJ8PKwCSE
 - [Visual Stuido Code] (https://code.visualstudio.com/)
 
 
-Powered by ©️ Mokra Kurka
+Powered by ©️ kvcper.xyz
