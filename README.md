@@ -5,7 +5,7 @@ Minimalistyczne rozszerzenie do Chrome - obejście do sprawdzania rozmycia na te
 
 🈹🐀💥 Zmiana stron nie spowoduje wyświetlenia ostrzeżenia o opuszczeniu strony.
 
-Dołącz do naszego Discorda! https://discord.gg/WYm5N6XKVp
+Dołącz do naszego Discorda! https://discord.gg/vtJ8PKwCSE
 
 
 ## Stosowanie
